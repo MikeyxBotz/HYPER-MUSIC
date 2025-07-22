@@ -14,9 +14,9 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","IM_SUSANT")
+OWNER_USERNAME = getenv("OWNER_USERNAME","NOOneIsMinee")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "DbXMusicBot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "HyperxMusicBot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "SUSANTMUSIC")
 # ---------------------------------------------------------
@@ -38,7 +38,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", -1002754355006))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 7968389767))
+OWNER_ID = int(getenv("OWNER_ID", 8156708830))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/abhaysinghchauhan001/NOBITAxMUSIC",
+    "https://github.com/MikeyxBotz/HYPER-MUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SusantxBotz")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/SusantxBotz_Support")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/DragonByteBotz")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/DragonByteGc")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -141,7 +141,7 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/e52bpl.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/uhykxi.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://telegra.ph/file/7bb907999ea7156227283.jpg"
