@@ -15,7 +15,7 @@ POLICE = [
     [
         InlineKeyboardButton(
             text="↬꯭ᬃ ⃪꯭𝙎𝙪𝙨𝙖𝙣𝙩.꯭‐».꯭⟶꯭ ᯦💸〞",
-            url=f"https://t.me/IM_SUSANT",
+            url=f"https://t.me/NoOneIsMinee",
         ),
     ],
 ]
